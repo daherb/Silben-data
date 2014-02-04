@@ -1260,6 +1260,7 @@ beis
 beish
 beisk
 beiss
+beißt
 beist
 beit
 beitc
@@ -1877,6 +1878,7 @@ birrn
 birrs
 birrt
 birs
+birsk
 birst
 birt
 birts
@@ -2011,6 +2013,7 @@ blatc
 blath
 blats
 blatt
+blätt
 blatz
 blau
 blaub
@@ -2331,6 +2334,7 @@ bliz
 blizt
 blo
 blö
+blößt
 blob
 blöb
 blobs
@@ -4090,8 +4094,8 @@ büsh
 busk
 büsk
 buss
-büss
 buß
+büss
 busst
 bust
 büst
@@ -5942,6 +5946,7 @@ chrin
 chrip
 chrir
 chris
+christ
 chrit
 chriv
 chriw
@@ -11454,6 +11459,7 @@ dozt
 dözt
 dra
 drä
+drängt
 drab
 dräb
 drabs
@@ -12017,6 +12023,7 @@ druc
 drüc
 druch
 druck
+drucks
 drud
 drüd
 drude
@@ -13239,6 +13246,7 @@ enck
 end
 ends
 endt
+ener
 enf
 enft
 enfts
@@ -13628,6 +13636,7 @@ fahr
 fähr
 fahrs
 fahrt
+fahrts
 fahst
 faht
 fäht
@@ -13814,6 +13823,7 @@ fäsk
 fass
 fäss
 fasst
+faßt
 fast
 fäst
 fasth
@@ -15691,6 +15701,7 @@ folfs
 folft
 folg
 fölg
+folgs
 folgt
 folk
 fölk
@@ -15988,6 +15999,7 @@ frabt
 frac
 fräc
 frach
+fracht
 frack
 frad
 fräd
@@ -17005,6 +17017,7 @@ füsh
 fusk
 füsk
 fuss
+fuß
 füss
 fusst
 fust
@@ -18315,6 +18328,7 @@ gies
 giesh
 giesk
 giess
+gieß
 giest
 giet
 gietc
@@ -19074,6 +19088,7 @@ gluc
 glüc
 gluch
 gluck
+glück
 glud
 glüd
 glude
@@ -20949,6 +20964,7 @@ grös
 grosh
 grosk
 gross
+groß
 grost
 grot
 gröt
@@ -22439,6 +22455,7 @@ herns
 hernt
 herps
 herr
+herrsch
 herrn
 herrs
 herrt
@@ -28836,6 +28853,7 @@ knebs
 knebt
 knec
 knech
+knechts
 kneck
 kned
 knede
@@ -33952,6 +33970,7 @@ menn
 menns
 mennt
 mens
+mensch
 menst
 ment
 ments
@@ -34010,6 +34029,7 @@ mesch
 mesh
 mesk
 mess
+meß
 messt
 mest
 mesth
@@ -34497,6 +34517,7 @@ misch
 mish
 misk
 miss
+miß
 misst
 mist
 misth
@@ -36651,6 +36672,7 @@ nisch
 nish
 nisk
 niss
+niß
 nisst
 nist
 nisth
@@ -39509,6 +39531,7 @@ pflak
 pflal
 pflam
 pflan
+pflanz
 pflap
 pflar
 pflas
@@ -39544,6 +39567,8 @@ pfli
 pflia
 pflib
 pflic
+pflich
+pflicht
 pflid
 pflie
 pflif
@@ -43309,6 +43334,7 @@ prabt
 prac
 präc
 prach
+pracht
 prack
 prad
 präd
@@ -45002,6 +45028,8 @@ punk
 pünk
 punks
 punkt
+pünkt
+punkts
 punn
 pünn
 punns
@@ -46589,6 +46617,7 @@ rech
 rechk
 rechs
 recht
+rechts
 rechz
 reck
 recks
@@ -48381,6 +48410,7 @@ rorzt
 ros
 rös
 rosch
+rösch
 rosh
 rösh
 rosk
@@ -49409,8 +49439,10 @@ schä
 schab
 schac
 schad
+schäd
 schaf
 schaft
+schafts
 schag
 schah
 schak
@@ -49419,8 +49451,10 @@ scham
 schan
 schap
 schar
+scharf
 schas
 schat
+schät
 schau
 schav
 schaw
@@ -49452,6 +49486,7 @@ schi
 schia
 schib
 schic
+schick
 schid
 schie
 schif
@@ -49470,26 +49505,38 @@ schiw
 schix
 schiz
 schla
+schlacht
 schle
 schlecht
 schli
+schlie
+schlit
 schlo
+schloss
 schlu
+schlüs
+schluß
 schly
 schma
 schme
+schmerz
 schmi
+schmidt
 schmo
 schmu
 schmy
 schna
 schne
 schni
+schnit
+schnitt
+schnitts
 schno
 schnu
 schny
 scho
 schö
+schön
 schob
 schoc
 schod
@@ -49501,6 +49548,7 @@ schol
 schom
 schon
 schop
+schöpf
 schor
 schos
 schot
@@ -49519,6 +49567,7 @@ schra
 schre
 schri
 schrift
+schrit
 schro
 schru
 schry
@@ -49532,18 +49581,24 @@ schug
 schuh
 schuk
 schul
+schuld
 schum
 schun
 schup
 schur
 schus
+schuss
+schuß
 schut
 schuv
 schuw
 schux
 schuz
 schwa
+schwarz
 schwe
+schwel
+schwer
 schwi
 schwo
 schwu
@@ -49818,6 +49873,7 @@ sekts
 sel
 selb
 selbs
+selbst
 selbt
 selch
 seld
@@ -54190,6 +54246,9 @@ spra
 sprä
 sprab
 sprac
+sprach
+spräch
+sprächs
 sprad
 spraf
 sprag
@@ -54279,10 +54338,12 @@ sprud
 spruf
 sprug
 spruh
+sprüht
 spruk
 sprul
 sprum
 sprun
+sprungs
 sprup
 sprur
 sprus
@@ -54523,7 +54584,10 @@ spyz
 spyzt
 ße
 ßen
+ßes
+ßet
 ßi
+ßig
 sta
 stä
 stab
@@ -55213,6 +55277,8 @@ stuc
 stüc
 stuch
 stuck
+stück
+stücks
 stud
 stüd
 stude
@@ -55578,6 +55644,8 @@ sunf
 sünf
 sunft
 sung
+ßung
+ßungs
 süng
 sungs
 sungt
@@ -57800,6 +57868,8 @@ taurs
 taurt
 taurz
 taus
+tausch
+tauschs
 taush
 tausk
 tauss
@@ -60020,6 +60090,7 @@ tragd
 tragg
 trags
 tragt
+trägt
 trah
 träh
 trahl
@@ -63225,6 +63296,7 @@ vosk
 vösk
 voss
 vöss
+voß
 vosst
 vost
 vöst
@@ -64098,6 +64170,7 @@ warst
 wart
 wärt
 warts
+wärts
 warz
 wärz
 warzt
@@ -64571,6 +64644,7 @@ wept
 wepts
 wer
 werb
+werbs
 werbt
 werc
 werch
@@ -65098,6 +65172,7 @@ wisch
 wish
 wisk
 wiss
+wiß
 wisst
 wist
 wisth
@@ -67010,6 +67085,7 @@ zesch
 zesh
 zesk
 zess
+zeß
 zesst
 zest
 zesth
